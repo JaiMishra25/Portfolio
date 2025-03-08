@@ -110,7 +110,7 @@ export const workData = [
         title: 'Portfolio',
         description: 'Frontend Project',
         bgImage: '/portfolio.webp',
-        link: 'https://portfolio-jai.vercel.app/'
+        link: 'https://portfolio-site-jai.vercel.app/'
     },
     {
         title: 'Insightly',
