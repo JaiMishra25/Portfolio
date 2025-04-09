@@ -106,16 +106,19 @@ export const workData = [
         bgImage: '/code_editor.jpeg',
         link: 'https://code-forge-jai.vercel.app/'
     },
+    
+    {
+        title: 'FinancePro',
+        description: 'Personal Finance Platform',
+        bgImage: '/data_viz.jpg',
+        link: 'https://finance-pro-jai.vercel.app/'
+    },
+
     {
         title: 'Portfolio',
         description: 'Frontend Project',
         bgImage: '/portfolio.webp',
         link: 'https://portfolio-site-jai.vercel.app/'
-    },
-    {
-        title: 'Insightly',
-        description: 'Data Visualisation',
-        bgImage: '/data_viz.jpg',
     },
 ]
 
