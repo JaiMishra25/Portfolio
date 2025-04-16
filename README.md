@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Jai Mishra - Portfolio Website
 
-## Getting Started
+A modern and responsive portfolio website built to showcase my skills, services, and projects as a Fullstack Web Developer.
 
-First, run the development server:
+## 🌐 Live Preview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### 🌞 Light Mode
+![Light Mode](public/screenshots/home-light.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 🌙 Dark Mode
+![Dark Mode](public/screenshots/home-dark.png)
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 🧑‍💻 About Me
 
-## Learn More
+Hi! I'm **Jai Mishra**, a Fullstack Web Developer from **Lucknow, Uttar Pradesh** with experience in building scalable, responsive, and interactive applications using the **MERN**, **MEAN**, and **Next.js** stacks.
 
-To learn more about Next.js, take a look at the following resources:
+### 📌 Quick Intro
+- 🎓 B.Tech in Computer Science, Indian Institute of Information Technology Bhagalpur
+- 💼 Former Intern @ Infosys, built a real-time auction bidding platform using the MEAN stack
+- 🚀 Built 10+ personal and freelance projects
+- 📚 Passionate about learning, building, and solving real-world problems through code
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 💼 Sections
 
-## Deploy on Vercel
+### 🏠 Home
+A clean, hero section with intro, resume link, and contact CTA.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 👤 About Me
+More about my background, skills, tools I use, and technical stack.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+### 🛠️ Services
+- **Frontend Development:** Responsive and aesthetic UIs using React, Angular
+- **Backend Development:** Robust server-side logic using Node.js, Express
+- **UI/UX Design:** Seamless and user-centric experiences
+- **Mobile App Development:** Cross-platform apps with modern tools
+
+### 💻 My Work
+Featured projects:
+- **Auction Platform** – Full Stack
+- **Code Editor** – Full Stack
+- **FinancePro** – Personal Finance Platform
+- **Portfolio** – Frontend Project
+
+### 📞 Contact Me
+Built-in form with name, email, message, and submit button. Also includes email address and social media links.
+
+---
+
+## 🧰 Tech Stack & Tools
+
+**Languages & Frameworks:**
+- C/C++, Python, HTML, CSS, JavaScript
+- React, Angular, Node.js, Express.js, Next.js
+
+**Tools I Use:**
+- VS Code, GitHub, Figma, Postman, MongoDB, MySQL, Tailwind CSS
+
+---
+
+## 📫 Contact
+
+- 📧 jaimishra502@gmail.com  
+- 🌐 [GitHub](https://github.com/JaiMishra25)  
+- 🔗 [LinkedIn](https://linkedin.com/in/JaiMishra25)
+
+---
+
+© 2025 Jai Mishra. All rights reserved.
